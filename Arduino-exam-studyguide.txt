@@ -1,0 +1,39 @@
+Fashioning Circuits Fall 2014 
+Arduino Exam Study Guide
+
+The exam will be a combination of matching, multiple choice, short answer, and demonstration. The concepts that may be on the exam:
+
+analogWrite
+analogRead
+Arduino Integrated Development Environment, parts of
+ASCII Characters
+Array
+Bits, definition
+Buttons
+Bytes, definition
+Circuit Schematic notations for battery, ground, current, switch, resistor, LEDs
+Color changing (RGB) LEDs 
+Commenting
+Constants (INPUT, INPUT_PULLUP, OUTPUT, HIGH, LOW)
+Declarations
+Digital vs. Analog pins
+digitalWrite
+delay
+If / else functions
+If / then functions
+Logical comparisons
+Logical operators
+Mathematical operations
+Pull-up resistors
+Pulse width modulation
+Serial Communication, output
+Serial vs. Parallel wiring
+Serial.print and Serial.println
+Serial.begin
+Sketch, parts of, including punctuation
+Switches
+Troubleshooting strategies
+Variables (Integers, Strings, Floats, Long)
+
+
+
